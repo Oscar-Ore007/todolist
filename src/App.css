@@ -29,3 +29,14 @@ body{
 #to-do-form input:focus{
   outline: none;
 }
+
+#to-do-form button{
+  height: 50px;
+  width: 80px;
+  border-radius: 5px;
+  background-color: rgb(202,156,24);
+  cursor: pointer;
+  font-weight: bolder;
+  color: #fff;
+  
+}
